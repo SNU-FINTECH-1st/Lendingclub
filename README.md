@@ -1,2 +1,2 @@
-# Lendingclub
-Datascience_Statistics_Project
+# Lendingclub(1조)
+Datascience_Statistics_Project 
