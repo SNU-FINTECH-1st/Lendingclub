@@ -14,4 +14,4 @@ LendingClub Data
 
 
 
-
+<img width="1206" alt="image" src="https://github.com/user-attachments/assets/fd922a6d-ac10-4665-b3ba-c50cddf2826a">
