@@ -4,7 +4,8 @@
 
 
 ## 사용된 데이터
-* LendingClub Data  
+
+LendingClub Data  
   
 ## OUR REPORT
 
